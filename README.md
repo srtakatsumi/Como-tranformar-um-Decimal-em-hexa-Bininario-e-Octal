@@ -52,3 +52,11 @@ Como será exbido:
 
 
 	0x19
+
+
+Observação: se não for um inteiro, deve implementar index() para retornar um inteiro
+
+	References bibliographical:
+	https://www.programiz.com/python-programming/methods/built-in/oct
+	https://www.programiz.com/python-programming/methods/built-in/bin
+	https://www.programiz.com/python-programming/methods/built-in/hex
