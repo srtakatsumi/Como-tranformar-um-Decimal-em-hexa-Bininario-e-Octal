@@ -15,8 +15,40 @@ E dar ao usuário a opção de escolha se é binario, hexa ou octa
 
 Referência: 
 Alguns links (sim wikipedia) que podem explicar melhor o que é cada um:
+
     Hexadecimal: https://pt.wikipedia.org/wiki/Sistema_de_numera%C3%A7%C3%A3o_hexadecimal 
     Octal: https://pt.wikipedia.org/wiki/Sistema_octal
     Binário: https://pt.wikipedia.org/wiki/Sistema_de_numera%C3%A7%C3%A3o_bin%C3%A1rio 
 
 
+
+Como será exbido: 
+
+	Digite um número:
+
+	--------------------
+
+	[1]Binário
+	[2] Octal
+	[3] Hexadecimal
+
+
+	Digite a opção que deseja converter:
+
+
+
+	Como fica:
+
+	Digite um número: 25
+
+	--------------------
+
+	[1]Binário
+	[2] Octal
+	[3] Hexadecimal
+
+
+	Digite a opção que deseja converter: 3
+
+
+	0x19
